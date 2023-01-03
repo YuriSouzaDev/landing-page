@@ -1,6 +1,6 @@
 # Landing Page
 
-![Badge under development](https://img.shields.io/badge/STATUS-%20EM%20DESENVOLVIMENTO-green)
+![Badge under development](https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-green)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/YuriSouzaDev?style=social)
 
